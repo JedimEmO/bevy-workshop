@@ -1,0 +1,7 @@
+[workspace]
+members = ["course/parts/part_1_simple_shooter/exercises/simple_movement"]
+
+resolver = "3"
+
+[workspace.dependencies]
+bevy = "0.17"
