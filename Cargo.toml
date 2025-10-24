@@ -1,5 +1,5 @@
 [workspace]
-members = ["course/parts/part_1_simple_shooter/exercises/simple_movement"]
+members = ["course/parts/1_basics/exercises/simple_movement"]
 
 resolver = "3"
 

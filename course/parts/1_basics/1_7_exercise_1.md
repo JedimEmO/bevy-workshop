@@ -2,7 +2,7 @@
 
 Let's get our hands dirty.
 
-In `course/course_days/exercises/simple_movement` you will find the code for this exercise.
+In `course/parts/1_basic/exercises/simple_movement` you will find the code for this exercise.
 It has a lot of scaffolding to spawn meshes and a camera that we haven't learned yet.
 Ignore it, for now.
 
