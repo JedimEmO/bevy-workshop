@@ -1,4 +1,4 @@
-# Part 1 goals
+# Chapter 1 goals
 
 * Know what an ECS is
 * Know what a Bevy system is

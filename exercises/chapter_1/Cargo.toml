@@ -1,0 +1,15 @@
+[package]
+name = "chapter_1"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "simple-movement"
+path = "src/bin/simple_movement.rs"
+
+[[bin]]
+name = "solution-simple-movement"
+path = "src/solutions/solution_simple_movement.rs"
+
+[dependencies]
+bevy.workspace = true

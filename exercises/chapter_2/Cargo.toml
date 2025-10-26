@@ -1,0 +1,15 @@
+[package]
+name = "chapter_2"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "build-a-house"
+path = "src/bin/build_a_house.rs"
+
+[[bin]]
+name = "solution-build-a-house"
+path = "src/solutions/solution_build_a_house.rs"
+
+[dependencies]
+bevy.workspace = true

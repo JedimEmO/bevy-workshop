@@ -1,7 +1,11 @@
 [workspace]
-members = ["course/parts/1_basics/exercises/simple_movement"]
+members = [
+    "course/*/*/chapter-examples",
+    "exercises/*"
+]
 
 resolver = "3"
 
 [workspace.dependencies]
 bevy = "0.17"
+clap = { version = "4.5", features = ["derive"] }
