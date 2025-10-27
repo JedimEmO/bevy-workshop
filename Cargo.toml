@@ -9,3 +9,4 @@ resolver = "3"
 [workspace.dependencies]
 bevy = "0.17"
 clap = { version = "4.5", features = ["derive"] }
+wayland-sys = { version = "0.31", features = ["dlopen"] }

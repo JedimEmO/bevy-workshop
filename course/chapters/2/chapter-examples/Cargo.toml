@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 bevy.workspace = true
 clap.workspace = true
+wayland-sys.workspace = true

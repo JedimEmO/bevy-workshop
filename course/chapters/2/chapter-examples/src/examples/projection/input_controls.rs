@@ -9,7 +9,7 @@ pub fn input_controls_system(
 ) {
     if keys.any_just_pressed([KeyCode::Digit1, KeyCode::Digit2]) {
         for camera_entity in cameras.iter() {
-            commands.entity(camera_entity).despawn();
+           commands.entity(camera_entity).despawn();
         }
     }
 

@@ -13,3 +13,4 @@ path = "src/solutions/solution_build_a_house.rs"
 
 [dependencies]
 bevy.workspace = true
+wayland-sys.workspace = true
