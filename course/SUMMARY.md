@@ -1,9 +1,9 @@
 # Bevy for game jams workshop
 
-- [Chapter 1 - Hello world](chapters/goals.md)
+- [Section 1 - Hello world](chapters/goals.md)
   
   # The basics
-    - [Basics](chapters/1/1_ecs_basics.md)
+    - [Chapter 1: Basics](chapters/1/1_ecs_basics.md)
       - [ECS](chapters/1/1_1_what_is_an_ecs.md)
       - [Bevy ECS](chapters/1/1_2_bevy_ecs.md)
       - [Queries](chapters/1/1_3_queries.md)
@@ -12,7 +12,7 @@
       - [Transform](chapters/1/1_6_transform.md)
       - [Exercise](chapters/1/1_7_exercise_1.md)
         - [Solution](chapters/1/1_7_exercise_1_solution.md)
-    - [Change the world](chapters/2/2_change_the_world.md)
+    - [Chapter 2: Change the world](chapters/2/2_change_the_world.md)
       - [Schedules](chapters/2/2_1_schedules.md)
       - [Schedule examples](chapters/2/2_2_schedules_example.md)
       - [Schedule Gotchas](chapters/2/2_3_schedule_gotchas.md)
@@ -32,3 +32,4 @@
           - [Mesh example](chapters/2/2_7_4_3_mesh_example.md)
         - [Complete setup](chapters/2/2_7_5_setup.md)
       - [Exercise](chapters/2/2_exercise.md)
+    - [Chapter 3: Basic gameplay](chapters/3/3_1_intro.md)

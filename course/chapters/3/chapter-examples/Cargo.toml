@@ -1,9 +1,10 @@
 [package]
-name = "chapter-2-examples"
+name = "chapter-3-examples"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
 bevy.workspace = true
 clap.workspace = true
+leafwing-input-manager.workspace = true
 wayland-sys.workspace = true
